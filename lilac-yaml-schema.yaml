@@ -21,7 +21,7 @@ properties:
     description: Name of function to be used as the post_build function.
     type: string
   post_build_always:
-    description: Name of function to be used as the post_build_always function.
+    description:vdtfytfytf
     type: string
   pre_build_script:
     description: Body of the pre_build function. lilac2.api functions are available.
